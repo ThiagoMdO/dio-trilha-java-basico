@@ -1,2 +1,9 @@
 
-E	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ
+†
+java:S3518"CMake sure this expression can't be zero before doing this division.(Ä÷Ö¬8½¯¬Úò1J$bf6d5b12-f446-4271-ae95-147c14d24622
+l	java:S106"+Replace this use of System.out by a logger.(¸Ö|8¿¯¬Úò1J$4122815e-1663-4cc4-8978-ec48b03e143d
+r	java:S106	"+Replace this use of System.out by a logger.(îóÄµıÿÿÿÿ8À¯¬Úò1J$a4a17cf7-89d0-4da4-9644-7a767fd24f27
+m	java:S106
+"+Replace this use of System.out by a logger.(™¢Â¹8À¯¬Úò1J$c4d9ae0c-9155-4966-b1db-f45c6964a9ed
+m	java:S106"+Replace this use of System.out by a logger.(™¢Â¹8Á¯¬Úò1J$00ef22ee-c689-484f-a392-27a21184fc6a
+m	java:S106"+Replace this use of System.out by a logger.(äìÎÆ8ˆ’¯Úò1J$b8f5aeb1-911a-447b-b83f-c39aa3dc5be0

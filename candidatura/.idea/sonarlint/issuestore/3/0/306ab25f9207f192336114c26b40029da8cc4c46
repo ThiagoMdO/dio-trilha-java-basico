@@ -1,0 +1,14 @@
+
+T
+java:S3958"2Refactor the code so this stream pipeline is used.(‰»Æøÿÿÿÿ8Úş„Åõ1
+;
+java:S2119"Save and re-use this "Random".(–¢ƒø8åş„Åõ1
+X	java:S125"<This block of commented-out lines of code should be removed.(İ€ùå8ğş„Åõ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Éê¤´8ñş„Åõ1
+X	java:S125 "<This block of commented-out lines of code should be removed.(µÈİˆ8òş„Åõ1
+]	java:S125""<This block of commented-out lines of code should be removed.(óàÚåüÿÿÿÿ8òş„Åõ1
+L	java:S106."+Replace this use of System.out by a logger.(Ó••¯üÿÿÿÿ8õş„Åõ1
+L	java:S1060"+Replace this use of System.out by a logger.(¬Ë­±ûÿÿÿÿ8õş„Åõ1
+L	java:S1062"+Replace this use of System.out by a logger.(õŸÃ‘ûÿÿÿÿ8õş„Åõ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8øş„Åõ1

@@ -1,0 +1,14 @@
+
+r	java:S106	"+Replace this use of System.out by a logger.(˜Ÿ½Õûÿÿÿÿ8îÀÁıó1J$475e762c-d397-4e49-b392-905c980ddbc9
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(®šŠ±şÿÿÿÿ8ªÀÂıó1
+r	java:S106"+Replace this use of System.out by a logger.(®šŠ±şÿÿÿÿ8ñÀÁıó1J$4f0e8189-6020-47d7-bc68-df15aea97f91
+m
+java:S3457"%String contains no format specifiers.(åˆÆåøÿÿÿÿ8ñÀÁıó1J$53b13e3e-1423-48be-a9d0-3b408eae47d7
+r	java:S106"+Replace this use of System.out by a logger.(åˆÆåøÿÿÿÿ8òÀÁıó1J$6da55977-ccf0-49ef-be32-569cc56613ec
+h
+java:S3457"%String contains no format specifiers.(œ”î˜8òÀÁıó1J$b384670d-9b83-4c2c-9df2-3dc97b667e35
+m	java:S106"+Replace this use of System.out by a logger.(œ”î˜8òÀÁıó1J$0ac381be-3f55-4da8-9831-a2d10b723dea
+m
+java:S3457"%String contains no format specifiers.(ß´Ñ•ÿÿÿÿÿ8òÀÁıó1J$d556f55a-0b2b-41c5-b309-b852beb4c0f7
+L	java:S106"+Replace this use of System.out by a logger.(ß´Ñ•ÿÿÿÿÿ8¬ÀÂıó1
