@@ -9,3 +9,5 @@ R
 "src/application/EstadosRunner.java,e\f\ef58b585580afdb2f4efce163c1433efe7560f70
 V
 &src/application/SistemaIBGERunner.java,0\8\08b3abf985a880c34eaf5c8f4f83605bff0600c2
+Q
+!src/enums/EstadosBrasileiros.java,5\2\524b7c9c6936ba8c441a1a605a609074ba03cfb6

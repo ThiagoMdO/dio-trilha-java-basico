@@ -1,4 +1,4 @@
-package application.enums;
+package enums;
 
 public enum EstadosBrasileiros {
     SAO_PAULO ("SP", "São Paulo", 245),

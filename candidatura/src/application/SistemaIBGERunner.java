@@ -1,6 +1,6 @@
 package application;
 
-import application.enums.EstadosBrasileiros;
+import enums.EstadosBrasileiros;
 
 public class SistemaIBGERunner {
 
